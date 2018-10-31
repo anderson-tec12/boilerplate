@@ -1,0 +1,20 @@
+{
+  "name": "svg-boilerplate",
+  "version": "1.0.0",
+  "description": "é um boilerplate em gulp para svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "gulp",
+    "sprites"
+  ],
+  "author": "Anderson Barros Silva",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svg-sprite": "^1.5.0"
+  }
+} 
