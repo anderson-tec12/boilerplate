@@ -1,10 +1,12 @@
 # boilerplate
-Gerador automaticode sprintes em svg
+Gerador automatico de sprints em svg
 
 Requisitos
 
 Node, Npm Gulp e Gulp-svg-sprite
+
 Preparando o ambiente 
+
   1 - Instalando o Gulp no sistema 
     npm install -g gulp-cli
    
